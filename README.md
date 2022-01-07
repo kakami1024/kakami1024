@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=kakami1024&show_icons=true)
-[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kakami1024&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kakami1024)
+![kakami1024's github stats](https://github-readme-stats.vercel.app/api?username=kakami1024&theme=great-gatsby&show_icons=true)
+[![kakami1024's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kakami1024&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kakami1024)
 
 <!--
 **kakami1024/kakami1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
