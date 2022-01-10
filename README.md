@@ -9,7 +9,8 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 
+[![kakami1024's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakami1024&theme=ayu-mirage&show_icons=true&count_private=true&hide_border=true)](https://github.com/kakami1024/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=kakami1024&theme=ayu-mirage&show_icons=true&count_private=true&hide_border=true" align="left" />
+
 
 
